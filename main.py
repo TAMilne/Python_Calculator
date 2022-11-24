@@ -3,7 +3,6 @@ from tkinter import *
 window =Tk()
 window.geometry("312x324")
 window.resizable(0, 0)
-window.configure(background="dark slate blue")
 window.title("Calculator")
 
 def click(item):
